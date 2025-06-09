@@ -4,11 +4,11 @@
 #include <addons/TokenHelper.h>
 #include <addons/RTDBHelper.h>
 
-#define WIFI_SSID "wahren"
-#define WIFI_PASSWORD "123456789"
-#define API_Key "AIzaSyCQ46adOkMKdS4BiawGur52j99-GueX_L4"
+#define WIFI_SSID "your wifi name here"
+#define WIFI_PASSWORD "your wifi password"
+#define API_Key "firebase dataabase api key"
 
-#define url "https://espman-5b234-default-rtdb.europe-west1.firebasedatabase.app/"
+#define url "database url"
 
 #define SENSOR_A 18  
 #define SENSOR_B 19 
